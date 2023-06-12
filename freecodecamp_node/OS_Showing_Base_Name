@@ -1,0 +1,2 @@
+const base = path.basename(filePath);
+console.log(base)
